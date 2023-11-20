@@ -1,0 +1,9 @@
+@software{SROT_SKASDC3a_GPR4im,
+  author = {Akash Kulkarni, Nirmala SR, Basawaraj},
+  doi = {},
+  month = {11},
+  title = {{SROT_SKASDC3a_GPR4im}},
+  url = {https://github.com/AkashRadio/SKA_SDC3.git},
+  version = {1.0},
+  year = {2023}
+}
